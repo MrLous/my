@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(0, 0, 0);
+    max-width: 900px;
+    margin: auto;
+}
+
+.imgtopo{
+    border-radius:30px;
+    padding: 15px;
+    max-width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+#title, .subtitle{
+    color: rgb(241, 118, 74);
+    font-family: copperplate gothic light;
+    text-align: center;
+}
+
+.postitle{
+    color: orange;
+    font-size: 16px;
+    font-family: copperplate gothic light;
+    font-style: italic;
+}
+
+.post {
+    background-color: rgb(29, 29, 29);
+    padding: 10px;
+    border: 3px solid chocolate;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.texto{
+    color: rgb(250, 249, 249);
+    font-family: calibri;
+    text-align: center;
+}
+
+.rodape{
+    color: lavender;
+}
